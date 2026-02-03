@@ -1,5 +1,8 @@
-i = 5;
+# Multiplication Code
 
-while (i>=1):
-    print(i)
-    i-=1 
+n = int(input("Enter a no : "));
+
+i = 1;
+while (i<=10):
+    print(n*i);
+    i+=1;
