@@ -1,0 +1,3 @@
+My name is Shahil Patel
+This file is creasted for a practice question,
+To search a word.
