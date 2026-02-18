@@ -1,8 +1,8 @@
 
 #! Polymorphism
-#* mony forms
+#* many forms
 
-#* Function Ovveriding
+#* Function Overriding
  
 class Employee:
     def get_designation(self):
